@@ -1,0 +1,4 @@
+exemplo 1
+ler um numero informado pelo usuario (syso(digite um numero), e depois next.int)
+se o numero for maior que 10 então syso(é maior que 10)
+senao então syso(não é maior que 10)
